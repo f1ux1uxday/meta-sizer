@@ -1,0 +1,13 @@
+{
+  "name": "meta-sizer",
+  "version": "1.0.0",
+  "description": "pick the file, get the size",
+  "main": "meta-sizer.js",
+  "author": "Lucas Dayton",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
